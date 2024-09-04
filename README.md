@@ -1,6 +1,5 @@
 # vscode-swe-agent
 
-From Author
 
 VS Code SWE Agent
 The VS Code SWE Agent is an innovative AI-powered assistant designed to enhance the productivity and efficiency of software engineers working within the Visual Studio Code environment. This intelligent agent seamlessly integrates with VS Code to provide real-time support, guidance, and automation for a wide range of software development tasks.
