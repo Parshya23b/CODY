@@ -1,4 +1,4 @@
-# vscode-swe-agent
+# CODY
 
 ![CODY](https://github.com/user-attachments/assets/34f078b1-57df-4bf1-9597-c22302c50dd7)
 
