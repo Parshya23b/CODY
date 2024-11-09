@@ -3,7 +3,7 @@
 ![CODY](https://github.com/user-attachments/assets/34f078b1-57df-4bf1-9597-c22302c50dd7)
 
 
-Cody
+CODY
 
 Cody :The VS Code SWE Agent is an innovative AI-powered assistant designed to enhance the productivity and efficiency of software engineers working within the Visual Studio Code environment. This intelligent agent seamlessly integrates with VS Code to provide real-time support, guidance, and automation for a wide range of software development tasks.
 Key Features:
